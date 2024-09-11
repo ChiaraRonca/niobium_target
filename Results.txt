@@ -1,0 +1,5 @@
+Parameters: 
+Time of irradiation: 7.74682e-304 hour(s).
+Beam current: 6.95332e-304 µA.
+Total number of simulated primaries: 32767
+Please check they are the same as in the simulation. Otherwise change it by modifying the Plot.C file.
